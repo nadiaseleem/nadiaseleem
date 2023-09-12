@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadia Seleem</h1>
-<h3 align="center">A dedicated, passionate, and self-motivated Android Developer from Egypt</h3>
+<h3 align="center">A dedicated, passionate, and self-motivated Android Developer</h3>
 
 - 🔭 I’m currently working on [FurniChic](https://github.com/nadiaseleem/FurniChic)
 
