@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Seleem</h1>
 <h3 align="center">A dedicated, passionate, and self-motivated Android Developer</h3>
 
-- 🔭 I’m currently working on [FurniChic](https://github.com/nadiaseleem/FurniChic), [Chat Now](https://github.com/nadiaseleem/Chat-Now)
+- 🔭 I’m currently working on [FurniChic](https://github.com/nadiaseleem/FurniChic) and [Chat Now](https://github.com/nadiaseleem/Chat-Now)
 
 - 💬 Ask me about **Android Development**
 
