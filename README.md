@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nadiaseleem97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12NCSq34jmkc_XghS20c2gou0aGs8PlKR/view?usp=sharing](https://drive.google.com/file/d/12NCSq34jmkc_XghS20c2gou0aGs8PlKR/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1as-6FNjNWwnxwglOT5F-7Gpp505MTILP/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
